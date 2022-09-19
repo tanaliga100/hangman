@@ -42,7 +42,8 @@ p {
 }
 
 .button {
-  background: crimson;
+  background: #7044a0;
+  border-radius: 5px;
   border: none;
   border-bottom: 2px solid #603a88;
   cursor: pointer;
@@ -54,5 +55,5 @@ p {
 }
 
 .button:hover {
-  background: #5f3a87;
+  background: crimson;
 }
