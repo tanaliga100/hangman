@@ -58,3 +58,7 @@ p {
 .button:hover {
   background: crimson;
 }
+
+#status {
+  margin: 1rem;
+}
